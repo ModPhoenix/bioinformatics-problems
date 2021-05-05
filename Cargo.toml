@@ -2,4 +2,5 @@
 members = [
     "counting-dna-nucleotides",
     "transcribing-dna-into-rna",
+    "complementing-strand-of-dna",
 ]
