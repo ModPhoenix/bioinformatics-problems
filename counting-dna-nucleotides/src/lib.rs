@@ -4,8 +4,8 @@ pub fn get_dna_nucleotides_count(dna: &str) -> (u64, u64, u64, u64) {
     let mut guanine = 0;
     let mut thymine = 0;
 
-    for chat in dna.chars() {
-        match chat {
+    for char in dna.chars() {
+        match char {
             'A' => adenine += 1,
             'C' => cytosine += 1,
             'G' => guanine += 1,
