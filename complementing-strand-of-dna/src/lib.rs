@@ -6,7 +6,7 @@ pub fn complementing_strand_of_dna(dna: &str) -> String {
             'T' => 'A',
             'C' => 'G',
             'G' => 'C',
-            _ => ' ',
+            _ => char,
         })
         .collect::<String>()
 }
