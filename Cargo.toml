@@ -1,4 +1,5 @@
 [workspace]
 members = [
     "counting-dna-nucleotides",
+    "transcribing-dna-into-rna",
 ]

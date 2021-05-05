@@ -3,3 +3,7 @@
 [[package]]
 name = "counting-dna-nucleotides"
 version = "0.1.0"
+
+[[package]]
+name = "transcribing-dna-into-rna"
+version = "0.1.0"
