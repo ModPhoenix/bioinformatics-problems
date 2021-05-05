@@ -8,7 +8,7 @@ pub fn complementing_strand_of_dna(dna: &str) -> String {
             'G' => 'C',
             _ => char,
         })
-        .collect::<String>()
+        .collect()
 }
 
 #[cfg(test)]
