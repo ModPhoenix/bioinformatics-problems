@@ -4,4 +4,5 @@ members = [
     "transcribing-dna-into-rna",
     "complementing-strand-of-dna",
     "rabbits-and-recurrence-relations",
+    "computing-gc-content",
 ]

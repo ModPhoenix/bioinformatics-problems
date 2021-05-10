@@ -5,6 +5,13 @@ name = "complementing-strand-of-dna"
 version = "0.1.0"
 
 [[package]]
+name = "computing-gc-content"
+version = "0.1.0"
+dependencies = [
+ "counting-dna-nucleotides",
+]
+
+[[package]]
 name = "counting-dna-nucleotides"
 version = "0.1.0"
 
